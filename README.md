@@ -1,3 +1,3 @@
 # git-test
 
-author -saurabh kushawaha
+author -saurabh (learn git)
